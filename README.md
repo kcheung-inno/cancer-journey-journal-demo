@@ -70,7 +70,7 @@
 完整版（含完整知識庫、38 條急症規則、情緒篩檢、Android 打包設定、
 臨床內容規格與授權文件）為私有 repo，採授權方式提供給醫療機構與研究單位。
 
-聯絡：**Ken Cheung** · [請填入聯絡信箱]
+聯絡：**Ken Cheung** · GitHub [@kcheung-inno](https://github.com/kcheung-inno)
 
 ---
 
