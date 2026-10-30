@@ -1,5 +1,5 @@
 /* 療程日誌 service worker：離線可用 */
-const CACHE = 'cjj-v1.2.0';
+const CACHE = 'cjj-v1.2.1';
 const ASSETS = ['./index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png'];
 
 self.addEventListener('install', e => {
